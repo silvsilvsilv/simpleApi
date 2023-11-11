@@ -1,8 +1,2879 @@
 {
-  "people": [
-    {
-      "id": 0,
-      "name": "John"
+  "csc200": {
+    "section-a": {
+      "total_students": 30,
+      "data": [
+        {
+          "id": 1,
+          "name": "Almirante, Jann Louie Q.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Arceño, Jayson E.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Austero, Crank Neil R.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Bantillo, Phoebe Mariz Q.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Bondad, Don Marc P.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Cafino, Randy S.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Calpis, Lorenzo Jr. R.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Cantal, Jonathan Jr. U.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Cañete, John Adnhel E.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Ceriales, Aiko V.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Deatras, Keizharra B.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Delara, Kriste Jo P.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Dorio, Francis Clinton G.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Elmaco, John Howard B.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Eluna, Lee Cliford P.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Ention, Wingel Antonnette T.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Epan, Christian Ray B.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Estrellado, Jay Z.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Galleon, Oliver P.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Jumawan, Lysa Mae A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Magsayo, Mary Paola",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Manso, Ronin Allyson Y.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "Mariano, Des Jozef M.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Pasague, Ma. Cristina M.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Paster, Jerico P.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "name": "Radoc, Cyrell Jane E.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Rusiana, Shane Mark",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Sabejon, Matt Ian V.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Santillan, Lorie Ann Mae T.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Tubongbanua, Reden D.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        }
+      ]
+    },
+    "section-b": {
+      "total_students": 31,
+      "data": [
+        {
+          "id": 1,
+          "name": "Aniñon, Ryan S.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Banjao, Maven",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Bora, Christian R.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Cabugnason, Justine C.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Cadeliña, Jee Lu L.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Carriaga, Lou Andre V.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Carriaga, Lou Vincent V",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Carvajal, Juan Antonio E.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Catada, Jasmin F.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Dayot, Marjorie B",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Desoacido, Jessie F.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Estrada, Ralph Lawrenz C.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Labrador, Dona Fearl L.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Lachica, Geo Mar T.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Landazabal, Cristy Jane B.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Leñohan, Cheny Ann B.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Manangcay, Jerric M.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Ojales, Carlton James A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Olasiman, Grant Adriane M.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Opo, Tyler Christian D.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Partosa, Ricky boy M.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Pinanonang, Neil G.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "Quibo, Jessa Mae A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Ragay, Kenth S.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Silot, Chris Albert S.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "name": "Silva, John Leonil C.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Tobasco, Jessa B.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Tomale, Florence T.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Trumata, Princess Celine P.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Velonta, Azel Ryan A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "name": "Vidal, Johnrel L.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        }
+      ]
+    },
+    "section-c": {
+      "total_students": 21,
+      "data": [
+        {
+          "id": 1,
+          "name": "Abrenica, Jay Jovi James B.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Abria, Mary Joy A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Ajoc, John Lloyd P.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Aldenese, Nicole A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Alvarez, Rachel A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Bernal, Tamara Faye C.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Custodio, John Michael L.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Descatamiento, Shiela Mae A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Fabello, Isaac G.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Garcia, John Clyde B.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Gomez, Dino C.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Gonzales, Christian P.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Gravoso, Judy Ann O.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Macasukit, Luiguie C.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Mendez, Angel Mae",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Narbas, Arjay Ejercito",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Santonil, Jun Cyril A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Tayros, Sean Ivan",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Veradio, Rex Mikheal",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Villaflores, Joshua S.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-04"
+            },
+            {
+              "is_present": true,
+              "date": "2023-11-08"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Villegas, Kennith Khember A.",
+          "attendance": [
+            {
+              "is_present": true,
+              "date": "2023-09-20"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-21"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-27"
+            },
+            {
+              "is_present": true,
+              "date": "2023-09-29"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-02"
+            },
+            {
+              "is_present": true,
+              "date": "2023-10-11"
+            }
+          ]
+        }
+      ]
     }
-  ]
+  }
 }
