@@ -1,6 +1,8 @@
 {
-  "id":1,
-  "username":"jane_doe",
-  "password":"password234",
-  "date":"2023-11-5"
+  "users":{
+    "id":1,
+    "username":"jane_doe",
+    "password":"password234",
+    "date":"2023-11-5"
+  }
 }
